@@ -22,4 +22,4 @@ A modern calculator app built using Kotlin and XML.
 
 ## Download APK
 
-[Download Calculator APK](./calculator.apk)
+[Download Calculator App](./calculator.apk)
